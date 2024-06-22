@@ -1,8 +1,10 @@
 body{
     background-color: hsl(212, 45%, 89%);
-    width : 1440x;
+    width : 100vw;
     display: flex;
     flex-shrink: 1;
+    heigth: 100vh;
+    position: fixed;
 }
 @media screen and (min-width: 375px) and (max-width: 1440px) {
     display: flex;
