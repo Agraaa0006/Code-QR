@@ -4,13 +4,13 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    heigth: 100vh;
+    height: 100vh;
     flex-shrink: 1;
     position: fixed;
 }
 @media  (min-width: 375px) {
      .container{
-        max-width: 1440px;
+        max-widht: 1440px;
      }
 }
 .container{
