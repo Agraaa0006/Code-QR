@@ -10,7 +10,7 @@ body{
 }
 @media  (min-width: 375px) {
      .container{
-        max-widht: 1440px;
+        max-width: 1440px;
      }
 }
 .container{
